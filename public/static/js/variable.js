@@ -5,4 +5,4 @@ const websiteName = "Ansy";
 const options = { weekday: 'long', year: 'numeric', month: 'short', day: '2-digit' };
 
 // Set your Enddate
-const endDate = new Date('2020, 11, 01');
+const endDate = new Date('2021, 01, 31');
